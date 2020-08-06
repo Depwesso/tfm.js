@@ -1,0 +1,17 @@
+{
+  "name": "tfm.js",
+  "version": "1.0.0",
+  "description": "Serverside emulator for the game Transformice",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+	"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Depwesso/tfm.js"
+  },
+  "keywords": [],
+  "author": "Depwesso",
+  "license": "ISC"
+}
